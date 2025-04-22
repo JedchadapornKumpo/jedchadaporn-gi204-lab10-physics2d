@@ -13,6 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow2D.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -89,7 +92,7 @@
       <workItem from="1745295135668" duration="20000" />
       <workItem from="1745296112603" duration="366000" />
       <workItem from="1745296497044" duration="16000" />
-      <workItem from="1745296580024" duration="3425000" />
+      <workItem from="1745296580024" duration="6435000" />
     </task>
     <servers />
   </component>
